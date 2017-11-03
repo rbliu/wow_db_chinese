@@ -41,5 +41,7 @@ As we know, the latest (Nov 2017) -[TrinityCore database (branch 3.3.5)](https:/
 *  2017-11-3: `quest_template_locale`: 将`world`数据库中的`quest_template_locale`表格中的`esMX`修改为`zhTW`，如需要`zhCN`亦可以进行相应的替换。
 
 ------
+
 *所有原始数据取自于其他github库*
+
 *The very original data was forked from other github repo*
