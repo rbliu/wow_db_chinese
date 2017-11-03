@@ -16,25 +16,25 @@ As we know, the latest (Nov 2017) -[TrinityCore database (branch 3.3.5)](https:/
 
 - [ ] access_requirement
 - [ ] achievement_reward
-- []areatrigger_tavern
-- []areatrigger_teleport
-- []battleground_template
-- []creature_template
-- []creature_text
-- []db_script_string
-- []game_event
-- []game_tele
-- []gameobject_template
-- []gossip_menu_option
-- []item_set_names
-- []item_template
-- []npc_text
-- []outdoorpvp_template
-- []page_text
-- []points_of_interest
-- [x]quest_template_locale
-- []transports
-- []trinity_string
+- [ ] areatrigger_tavern
+- [ ] areatrigger_teleport
+- [ ] battleground_template
+- [ ] creature_template
+- [ ] creature_text
+- [ ] db_script_string
+- [ ] game_event
+- [ ] game_tele
+- [ ] gameobject_template
+- [ ] gossip_menu_option
+- [ ] item_set_names
+- [ ] item_template
+- [ ] npc_text
+- [ ] outdoorpvp_template
+- [ ] page_text
+- [ ] points_of_interest
+- [x] quest_template_locale
+- [ ] transports
+- [ ] trinity_string
 
 *  2017-11-3: quest_template_locale: 将world数据库中的quest_template_locale表格中的esMX修改为zhTW，如需要zhCN亦可以进行相应的替换。
 
