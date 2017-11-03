@@ -1,7 +1,7 @@
 # wow_db_chinese
 ==============
-## TrinityCore database translation to Chinese
-## Trinity 数据库汉化
+## TrinityCore database translation to Chinese / Trinity 数据库汉化
+
 
 As we know, the latest (Nov 2017) -[TrinityCore database (branch 3.3.5)](https://github.com/TrinityCore/TrinityCore/releases) uses English (enUS) as the primary language, with 5 other locales (deDE, frFR, esES, esMX, ruRU). Therefore, the issue is that even we extract dbc and maps files from a Chinese WoW client, we still see lots of default language (i.e. enUS) in the game due to the TDB file release. In my case, I have most of the text correct (e.g. NPC, item, creature) in game, but anything related to quest is still in enUS. To fix this problem, I use these sql file to update some tables in the installed database.
 
@@ -14,8 +14,8 @@ As we know, the latest (Nov 2017) -[TrinityCore database (branch 3.3.5)](https:/
 
 ### TODO:
 
-- []access_requirement
-- []achievement_reward
+- [ ] access_requirement
+- [ ] achievement_reward
 - []areatrigger_tavern
 - []areatrigger_teleport
 - []battleground_template
