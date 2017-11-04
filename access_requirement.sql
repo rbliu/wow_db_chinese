@@ -1,4 +1,4 @@
-﻿update access_requirement set comment='影牙城堡的(入口) ' where `mapId`=33 and `difficulty`=0;
+update access_requirement set comment='影牙城堡的(入口) ' where `mapId`=33 and `difficulty`=0;
 update access_requirement set comment='暴风城监狱(入口) ' where `mapId`=34 and `difficulty`=0;
 update access_requirement set comment='迪蒙特荒野 - 死亡矿井(入口)' where `mapId`=36 and `difficulty`=0;
 update access_requirement set comment='贫瘠之地——哀嚎洞穴' where `mapId`=43 and `difficulty`=0;
