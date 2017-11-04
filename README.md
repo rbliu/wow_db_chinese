@@ -16,17 +16,17 @@ As we know, the latest (Nov 2017) -[TrinityCore database (branch 3.3.5)](https:/
 
 ### TODO:
 
-- [ ] access_requirement
-- [ ] achievement_reward
-- [ ] areatrigger_tavern
-- [ ] areatrigger_teleport
-- [ ] battleground_template
-- [ ] creature_template
-- [ ] creature_text
-- [ ] db_script_string
-- [ ] game_event
-- [ ] game_tele
-- [ ] gameobject_template
+- [x] access_requirement
+- [x] achievement_reward
+- [x] areatrigger_tavern
+- [x] areatrigger_teleport
+- [x] battleground_template
+- [x] creature_template
+- [x] creature_text
+- [ ] db_script_string   **Not Found in TDB**
+- [ ] game_event   **eventEntry dismatch**
+- [x] game_tele
+- [x] gameobject_template
 - [ ] gossip_menu_option
 - [ ] item_set_names
 - [ ] item_template

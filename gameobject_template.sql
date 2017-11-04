@@ -10715,8 +10715,8 @@ update gameobject_template set name='食人妖英雄闪电' where entry=180252;
 update gameobject_template set name='『雷巫』乌苏雷' where entry=180393;
 update gameobject_template set name='安其拉之战 - 资源，毛皮，部落，初始' where entry=180812;
 update gameobject_template set name='安其拉之战 - 资源，草药，部落，初始' where entry=180818;
-"update gameobject_template set name='安其拉之战
- - 资源，绷带，部落，初始' where entry=180826;"
+update gameobject_template set name='安其拉之战
+ - 资源，绷带，部落，初始' where entry=180826;
 update gameobject_template set name='安其拉之战 - 资源，烹饪，部落，初始' where entry=180832;
 update gameobject_template set name='安其拉之战 - 资源，矿锭，部落，初始' where entry=180838;
 update gameobject_template set name='营火' where entry=181326;
