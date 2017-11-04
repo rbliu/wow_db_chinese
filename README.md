@@ -24,11 +24,11 @@ As we know, the latest (Nov 2017) -[TrinityCore database (branch 3.3.5)](https:/
 - [x] battleground_template
 - [x] creature_template
 - [x] creature_text
-- [ ] db_script_string   **Not Found in TDB**
-- [ ] game_event   **eventEntry dismatch**
+- [ ] db_script_string   -- **Not Found in TDB**
+- [ ] game_event   -- **eventEntry dismatch**
 - [x] game_tele
 - [x] gameobject_template
-- [ ] gossip_menu_option   **MenuID, OptionID dismatch**
+- [ ] gossip_menu_option   -- **MenuID, OptionID dismatch**
 - [x] item_set_names
 - [x] item_template
 - [ ] npc_text
@@ -41,7 +41,7 @@ As we know, the latest (Nov 2017) -[TrinityCore database (branch 3.3.5)](https:/
 
 ------
 
-* 2017-11-4: 对大部分sql文件进行修改使其符合TDB及world数据库中的格式。部分数据库文件中的条目
+* 2017-11-4: 对大部分sql文件进行修改使其符合TDB及world数据库中的格式。部分数据库文件中的条目编号与TDB所提供不一致，暂未做出修改。
 
 *  2017-11-3: `quest_template_locale`: 将`world`数据库中`quest_template_locale`表格中的`ruRU`修改为`zhCN`，如需要`zhTW`亦可以进行相应的替换。
 
