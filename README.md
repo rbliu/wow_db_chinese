@@ -31,7 +31,7 @@ As we know, the latest (Nov 2017) -[TrinityCore database (branch 3.3.5)](https:/
 - [ ] gossip_menu_option   -- **MenuID, OptionID dismatch**
 - [x] item_set_names
 - [x] item_template
-- [ ] npc_text
+- [x] npc_text
 - [ ] outdoorpvp_template
 - [ ] page_text
 - [ ] points_of_interest
