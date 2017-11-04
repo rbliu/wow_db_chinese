@@ -1,4 +1,4 @@
-﻿update areatrigger_teleport set name='血色修道院西(墓地)副本起点' where id=45;
+update areatrigger_teleport set name='血色修道院西(墓地)副本起点' where id=45;
 update areatrigger_teleport set name='死亡矿坑(副本)A-西部荒野' where id=78;
 update areatrigger_teleport set name='暴风城监狱-(副本)进入点' where id=101;
 update areatrigger_teleport set name='暴风城地窑' where id=107;

@@ -1,4 +1,4 @@
-﻿update areatrigger_tavern set name='西部荒野 - 哨兵岭旅店 ' where id=71;
+update areatrigger_tavern set name='西部荒野 - 哨兵岭旅店 ' where id=71;
 update areatrigger_tavern set name='艾尔文森林 - 闪金镇 - 狮王之傲旅店 ' where id=562;
 update areatrigger_tavern set name='赤脊山 - 湖畔旅店 ' where id=682;
 update areatrigger_tavern set name='暮色森林 - 夜色 - 血色旅店 ' where id=707;

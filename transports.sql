@@ -1,4 +1,4 @@
-﻿update transports set name='格罗姆高营地-幽暗城' where guid=1;
+update transports set name='格罗姆高营地-幽暗城' where guid=1;
 update transports set name='米奈希尔港-奥伯丁' where guid=2;
 update transports set name='泰达希尔-奥伯丁' where guid=3;
 update transports set name='米奈希尔港-塞拉摩岛' where guid=4;

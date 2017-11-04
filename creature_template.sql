@@ -1,4 +1,4 @@
-﻿update creature_template set name='路径点(只有GM可见)',subname='视觉' where entry=1;
+update creature_template set name='路径点(只有GM可见)',subname='视觉' where entry=1;
 update creature_template set name='食腐者' where entry=3;
 update creature_template set name='狗头人恶党' where entry=6;
 update creature_template set name='秘银机械幼龙' where entry=25;

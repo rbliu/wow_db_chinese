@@ -1,4 +1,4 @@
-﻿update trinity_string set content_default='您应该选择一个角色或一个生物。' where entry=1;
+update trinity_string set content_default='您应该选择一个角色或一个生物。' where entry=1;
 update trinity_string set content_default='您应该选择一个生物。' where entry=2;
 update trinity_string set content_default='[服务器讯息] ％s' where entry=3;
 update trinity_string set content_default='| cFFFF0000[线上讯息] ： %s|r' where entry=4;

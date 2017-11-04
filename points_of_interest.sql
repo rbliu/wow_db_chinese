@@ -1,4 +1,4 @@
-﻿update points_of_interest set icon_name='狮王之傲旅店' where entry=1;
+update points_of_interest set icon_name='狮王之傲旅店' where entry=1;
 update points_of_interest set icon_name='札尔迪玛·维夫希尔特' where entry=2;
 update points_of_interest set icon_name='维尔海姆修士' where entry=3;
 update points_of_interest set icon_name='女牧师洁塞塔' where entry=4;

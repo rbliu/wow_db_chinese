@@ -1,4 +1,4 @@
-﻿update item_template set name='破损的短剑' where entry=25;
+update item_template set name='破损的短剑' where entry=25;
 update item_template set name='弯曲的法杖' where entry=35;
 update item_template set name='用旧的钉锤' where entry=36;
 update item_template set name='破损的斧头' where entry=37;
@@ -38607,4 +38607,4 @@ update item_template set name='苏利萨斯鳞甲护腕' where entry=54592;
 update item_template set name='星界灵龙',description='"教你学会召唤这种小伙伴。"' where entry=54810;
 update item_template set name='森金大氅',description='显示森金的颜色。' where entry=54822;
 update item_template set name='莫叽姆斯的小矛',description='"教你学会召唤这种小伙伴。"' where entry=54857;
-�斯的小矛',description='"教你学会召唤这种小伙伴。"' where entry=54857;
+�斯的小矛',description='"教你学会召唤这种小伙伴。"' where entry=54857;

@@ -1,4 +1,4 @@
-﻿update creature_text set text='解散， $N。'  where entry=197 and groupid=0 and id=0;
+update creature_text set text='解散， $N。'  where entry=197 and groupid=0 and id=0;
 update creature_text set text='这不会花很长时间……'  where entry=253 and groupid=0 and id=0;
 update creature_text set text='隐形液已经准备好了，$N。'  where entry=253 and groupid=1 and id=0;
 update creature_text set text='守卫！'  where entry=352 and groupid=0 and id=0;

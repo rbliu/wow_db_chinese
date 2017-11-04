@@ -1,4 +1,4 @@
-﻿update gossip_menu_option set option_text='任务给予者' where menu_id=0 and id=0 and option_id=2;
+update gossip_menu_option set option_text='任务给予者' where menu_id=0 and id=0 and option_id=2;
 update gossip_menu_option set option_text='我要浏览你的货物' where menu_id=0 and id=1 and option_id=3;
 update gossip_menu_option set option_text='我想快速旅行' where menu_id=0 and id=2 and option_id=4;
 update gossip_menu_option set option_text='训练我！' where menu_id=0 and id=3 and option_id=5;

@@ -1,4 +1,4 @@
-﻿update item_set_names set name='尖牙铠甲' where entry=6473;
+update item_set_names set name='尖牙铠甲' where entry=6473;
 update item_set_names set name='白色礼服衬衣' where entry=6833;
 update item_set_names set name='黑色礼服短裤' where entry=6835;
 update item_set_names set name='塞奥沙束带' where entry=7948;

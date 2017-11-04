@@ -1,4 +1,4 @@
-﻿update npc_text set text0_0='嘿, $N.需要我帮忙吗?',text0_1='嘿, $N.需要我帮忙吗?',text1_0='很高兴见到你 $N',text1_1='嘿, $N.需要我帮忙吗?',text2_0='',text2_1='',text3_0='',text3_1='',text4_0='',text4_1='',text5_0='',text5_1='',text6_0='',text6_1='',text7_0='',text7_1='' where id=1;
+update npc_text set text0_0='嘿, $N.需要我帮忙吗?',text0_1='嘿, $N.需要我帮忙吗?',text1_0='很高兴见到你 $N',text1_1='嘿, $N.需要我帮忙吗?',text2_0='',text2_1='',text3_0='',text3_1='',text4_0='',text4_1='',text5_0='',text5_1='',text6_0='',text6_1='',text7_0='',text7_1='' where id=1;
 update npc_text set text0_0='嗨！亲爱的朋友！ $N 要我帮忙吗？',text0_1='嗨！亲爱的朋友！ $N 要我帮忙吗？',text1_0='嘿, $N.需要我帮忙吗?',text1_1='嗨！亲爱的朋友！ $N 要我帮忙吗？',text2_0='',text2_1='',text3_0='',text3_1='',text4_0='',text4_1='',text5_0='',text5_1='',text6_0='',text6_1='',text7_0='',text7_1='' where id=2;
 update npc_text set text0_0='嘿, $N.需要我帮忙吗?',text0_1='嘿, $N.需要我帮忙吗?',text1_0='很高兴见到你 $N',text1_1='见到你很高兴 $N',text2_0='',text2_1='',text3_0='',text3_1='',text4_0='',text4_1='',text5_0='',text5_1='',text6_0='',text6_1='',text7_0='',text7_1='' where id=68;
 update npc_text set text0_0='嘿，你好，市民。你看起来很强壮。我们这里的防卫有点弱，我想请你帮帮忙……',text0_1='',text1_0='',text1_1='',text2_0='',text2_1='',text3_0='',text3_1='',text4_0='',text4_1='',text5_0='',text5_1='',text6_0='',text6_1='',text7_0='',text7_1='' where id=197;
@@ -4752,7 +4752,7 @@ update npc_text set text0_0='啤酒节总是需要更多的酒桶!$B$B我会借�
 
 我会借给你一头私人山羊的缰绳。
 
-每一次你带一个酒桶给我，我就给你一些奖品章。你每带来一个酒桶，我还会加长你使用山羊的时间! 
+每一次你带一个酒桶给我，我就给你一些奖品章。你每带来一个酒桶，我还会加长你使用山羊的时间!
 
 注意!一旦你开始了，你就得再等到明天才能再进行一次。
 

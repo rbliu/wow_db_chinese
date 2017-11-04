@@ -1,4 +1,4 @@
-﻿update gameobject_template set name='喷泉' where entry=300148;
+update gameobject_template set name='喷泉' where entry=300148;
 update gameobject_template set name='井' where entry=300147;
 update gameobject_template set name='喷水孔' where entry=300146;
 update gameobject_template set name='石狮子' where entry=31;

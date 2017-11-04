@@ -1,4 +1,4 @@
-﻿update game_tele set name='蘑菇谷' where id=314;
+update game_tele set name='蘑菇谷' where id=314;
 update game_tele set name='蘑菇石' where id=313;
 update game_tele set name='霜狼村' where id=312;
 update game_tele set name='霜狼要塞' where id=311;

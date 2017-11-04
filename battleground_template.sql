@@ -1,4 +1,4 @@
-﻿update battleground_template set Comment='奥特兰克山谷' where id=1;
+update battleground_template set Comment='奥特兰克山谷' where id=1;
 update battleground_template set Comment='战歌峡谷' where id=2;
 update battleground_template set Comment='阿拉斯高地' where id=3;
 update battleground_template set Comment='风暴之眼' where id=7;
