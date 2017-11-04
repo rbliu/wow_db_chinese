@@ -29626,7 +29626,7 @@ update item_template set name='致命角斗士的壁垒' where entry=42570;
 update item_template set name='致命角斗士的顽强神像' where entry=42578;
 update item_template set name='致命角斗士的坚定神像' where entry=42583;
 update item_template set name='致命角斗士的决心神像' where entry=42588;
-update item_template set腾、火焰图腾和水之图腾使用。' where entry=42597;
+update item_template set name='致命角斗士的三旋风图腾',description='可以作为空气图腾、大地图腾、火焰图腾和水之图腾使用。' where entry=42597;
 update item_template set name='致命角斗士的生存图腾',description='可以作为空气图腾、大地图腾、火焰图腾和水之图腾使用。' where entry=42602;
 update item_template set name='致命角斗士的无畏图腾',description='可以作为空气图腾、大地图腾、火焰图腾和水之图腾使用。' where entry=42607;
 update item_template set name='致命角斗士的公正圣契' where entry=42614;
